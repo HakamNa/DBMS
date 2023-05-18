@@ -1,5 +1,4 @@
---> Hakam Nabulssi_207710443 
---> Helena Kahlilieh_322653080
+--> Hakam Nabulssi
 
 CREATE TABLE IF NOT EXISTS Programmer (
   id INTEGER PRIMARY KEY,
